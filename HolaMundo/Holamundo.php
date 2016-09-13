@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
     <body>
-
-    HOLA <?php echo $_GET["name, apellido"];
+/*
+ Este esaba mal
+*/
+    HOLA <?php echo $_GET["name,apellido"];
             ?>
 
 </body>
